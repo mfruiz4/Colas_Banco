@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1513564237 source:h:\mauricio respaldo\u\estructuras de datos\cola_banco\main.cpp
+	<iostream>
+	<Funciones_Banco.h>
+
+1513558022 h:\mauricio respaldo\u\estructuras de datos\cola_banco\funciones_banco.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
