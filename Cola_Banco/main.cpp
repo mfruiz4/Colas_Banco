@@ -2,7 +2,7 @@
 Universidad de las Fuerzas Armadas
 Estructuras de Datos
 Tema: COLAS
-Nombre: Mauricio Ruiz
+Nombre: Mauricio Ruiz, Andres Sanaguano, Carlos Yupa
 NRC: 2479
 */
 #include<iostream>
