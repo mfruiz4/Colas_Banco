@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515353700 source:h:\mauricio respaldo\u\estructuras de datos\calculadora_pre-postfija\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

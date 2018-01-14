@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511147652 source:h:\mauricio respaldo\u\estructuras de datos\listasdobles\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

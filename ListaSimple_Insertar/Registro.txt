@@ -1,0 +1,84 @@
+		Guardado Exitoso
+Lista Actual
+->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->3 ->3 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->2 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->2 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->2 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->2 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 ->3 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->6 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->6 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->6 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->1 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->1 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->1 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->8 ->1 ->2 ->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 
+------------------------------------------
+		Guardado Exitoso
+Lista Actual
+->5 
+------------------------------------------

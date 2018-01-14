@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513565667 source:h:\mauricio respaldo\u\estructuras de datos\pila_polaca\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+

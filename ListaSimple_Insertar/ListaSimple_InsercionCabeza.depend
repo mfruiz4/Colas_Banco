@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509744605 source:h:\mauricio respaldo\u\estructuras de datos\listasimple_insertar\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
